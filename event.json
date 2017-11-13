@@ -1,0 +1,9 @@
+{
+  "pathParameters": {
+  },
+  "queryStringParameters": {
+    "brand": "Samsung",
+    "token": "762dcb182f3db2aed1a8e285ad6eda95238693bfe0068ab3",
+    "device": "Samsung"
+  }
+}
