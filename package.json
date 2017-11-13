@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.7.28",
+    "bluebird": "^3.5.0",
+    "bunyan": "^1.8.5",
+    "bunyan-format": "^0.2.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "lambda-local": "^1.4.2"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  }
+}
