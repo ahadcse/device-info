@@ -1,0 +1,17 @@
+*.class
+.mtj.tmp/
+**/*.war
+**/*.ear
+hs_err_pid*
+**/target/
+**/*.iml
+**/*.ipr
+**/.DS_Store
+**/.idea
+**/pom.xml.versionsBackup
+**/*.zip
+yarn*
+package-lock.json
+node_modules
+.golem_gitinfo
+brew/*
